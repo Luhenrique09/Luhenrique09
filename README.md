@@ -43,4 +43,4 @@ Olá, sou apaixonado por programação e tecnologias de modo geral, tenho 25 ano
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Luhenrique09&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luhenrique09&layout=compact&langs_count=7&theme=react" />
   
-   ![Snake animation](https://github.com/Luhenrique09/Luhenrique09/blob/output/github-contribution-grid-snake.svg)
+
